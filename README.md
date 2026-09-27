@@ -1,5 +1,14 @@
 # SkyLink - İHA Yer İstasyonu Kontrol Sistemi
 
+> [!IMPORTANT]
+> ## 🔒 Takım Gizliliği ve Kaynak Kod Politikası
+>
+> Bu proje, takımımıza ve proje ortaklarımıza ait özel bilgi, yöntem ve uygulamaları içermektedir. **Takım gizliliğini, fikrî emeği ve proje güvenliğini korumak amacıyla kaynak kodlar bu depoda paylaşılmamaktadır.**
+>
+> Bu README; projenin amacı, mimarisi ve kullanılan teknolojiler hakkında genel bir bakış sunar. Kodun tamamı ve ayrıntılı uygulama bileşenleri yalnızca yetkili takım üyelerinin erişimine açıktır.
+>
+> 📩 Proje hakkında daha fazla bilgi için depo sahibiyle iletişime geçebilirsiniz.
+
 ## 📝 Proje Özeti
 SkyLink, İHA operasyonlarını daha verimli, güvenilir ve kullanıcı dostu bir şekilde yönetmek amacıyla geliştirilmiş kapsamlı bir yer kontrol istasyonu (GCS) çözümüdür. Proje, İHA'lar ile kesintisiz veri iletişimi sağlayarak operatörlerin gerçek zamanlı izleme, anlık görev planlama ve veri analizi yapmasına olanak tanır.
 
